@@ -7,7 +7,7 @@ This game was developed in Unity 6 as solo developer, and has continued developm
 
 In this Vampire Survivors-like game you collect masks that orbit the player and hurl attacks at the endless horde of incoming enemies.
 
-< a href="https://www.youtube.com/watch?v=NgAshHIGLD4"> 
+<a href="https://www.youtube.com/watch?v=NgAshHIGLD4"> 
   <img align="center" alt="Showcase thumbnail" width="60%" src="ReadMe/Portfolio_Showcase_Thumbnail.png">
 </a>
 
