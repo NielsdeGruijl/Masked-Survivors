@@ -7,7 +7,9 @@ This game was developed in Unity 6 as solo developer, and has continued developm
 
 In this Vampire Survivors-like game you collect masks that orbit the player and hurl attacks at the endless horde of incoming enemies.
 
-< a href="https://www.youtube.com/watch?v=NgAshHIGLD4"> </a>
+< a href="https://www.youtube.com/watch?v=NgAshHIGLD4"> 
+  <img align="left" alt="Showcase thumbnail" width="60%" stc="ReadMe/Portfolio_Showcase_Thumbnail.png">
+</a>
 
 By eliminating enemies the player collects coins, which can be used to open chests scattered around the environment.
 Opening one of these chests will reward the player with a random mask that will start orbiting the player on pickup and provide passive buffs or hurl attacks at nearby enemies.
