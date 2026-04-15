@@ -23,7 +23,6 @@ Here are some of the masks that can be found in the game:
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-
 ### Future Improvements
 The game is currently still in development, future updates will include:
 - More items
