@@ -21,7 +21,7 @@ Here are some of the masks that can be found in the game:
 <img align="left" alt="Mask Image 2" width="29%" style="padding-right:10px;" src="ReadMe/LuckMask_Portfolio.png">
 <img align="left" alt="Mask Image 3" width="29%" style="padding-right:10px;" src="ReadMe/Trailblazer_Portfolio.png">
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### Future Improvements
