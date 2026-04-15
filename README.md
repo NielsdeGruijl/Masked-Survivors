@@ -11,7 +11,7 @@ In this Vampire Survivors-like game you collect masks that orbit the player and 
   <img align="center" alt="Showcase thumbnail" width="60%" src="ReadMe/Portfolio_Showcase_Thumbnail.png">
 </a>
 
-<br/><br/>
+### Items
 
 By eliminating enemies the player collects coins, which can be used to open chests scattered around the environment.
 Opening one of these chests will reward the player with a random mask that will start orbiting the player on pickup and provide passive buffs or hurl attacks at nearby enemies.
